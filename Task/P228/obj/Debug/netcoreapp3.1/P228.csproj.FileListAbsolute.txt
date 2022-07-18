@@ -1,0 +1,14 @@
+C:\Users\imac-win\source\repos\P228\P228\obj\Debug\netcoreapp3.1\P228.csproj.AssemblyReference.cache
+C:\Users\imac-win\source\repos\P228\P228\obj\Debug\netcoreapp3.1\P228.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imac-win\source\repos\P228\P228\obj\Debug\netcoreapp3.1\P228.AssemblyInfoInputs.cache
+C:\Users\imac-win\source\repos\P228\P228\obj\Debug\netcoreapp3.1\P228.AssemblyInfo.cs
+C:\Users\imac-win\source\repos\P228\P228\obj\Debug\netcoreapp3.1\P228.csproj.CoreCompileInputs.cache
+C:\Users\imac-win\source\repos\P228\P228\bin\Debug\netcoreapp3.1\P228.exe
+C:\Users\imac-win\source\repos\P228\P228\bin\Debug\netcoreapp3.1\P228.deps.json
+C:\Users\imac-win\source\repos\P228\P228\bin\Debug\netcoreapp3.1\P228.runtimeconfig.json
+C:\Users\imac-win\source\repos\P228\P228\bin\Debug\netcoreapp3.1\P228.runtimeconfig.dev.json
+C:\Users\imac-win\source\repos\P228\P228\bin\Debug\netcoreapp3.1\P228.dll
+C:\Users\imac-win\source\repos\P228\P228\bin\Debug\netcoreapp3.1\P228.pdb
+C:\Users\imac-win\source\repos\P228\P228\obj\Debug\netcoreapp3.1\P228.dll
+C:\Users\imac-win\source\repos\P228\P228\obj\Debug\netcoreapp3.1\P228.pdb
+C:\Users\imac-win\source\repos\P228\P228\obj\Debug\netcoreapp3.1\P228.genruntimeconfig.cache
